@@ -1,5 +1,3 @@
 #!/bin/bash
 
-python lemonade.py
-post=12
-echo $post > position.txt
+python lemonade.py > position.txt
